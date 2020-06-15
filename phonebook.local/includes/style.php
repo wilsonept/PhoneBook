@@ -6,7 +6,7 @@
 
 body {
 	font: 12pt Calibri;
-	width: 1000px;
+	width: 1300px;
 	margin: auto;
 	background-color: #27272f;
 }
@@ -18,7 +18,7 @@ td, th {
 
 table {
 	border-spacing: 0;
-	width: 1000px;
+	width: 1300px;
 	border-collapse: separate;
 }
 
@@ -30,7 +30,7 @@ h1 {
 }
 
 input[type='text'] {
-	width: 300px;
+	width: 500px;
 	height: 45px;
 	font-size: 18px;
 	margin-bottom: 25px;
@@ -69,7 +69,7 @@ input[type='submit'], input[type='button'] {
 }
 
 .container {
-	width: 1000px;
+	width: 1300px;
 	height: 100px;
 	background:  #27272f;
 	margin: 10px auto 0px auto;
@@ -80,7 +80,7 @@ input[type='submit'], input[type='button'] {
 }
 
 .dws-submit {
-	width: 80px;
+	width: 100px;
 	padding: 15px 15px;
 	margin: 30px 0 0 0;
 	font-size: 15px;
@@ -95,7 +95,7 @@ input[type='submit'], input[type='button'] {
 }
 
 .dws-download {
-	width: 80px;
+	width: 100px;
 	padding: 15px 15px;
 	margin: 30px 0 0 0;
 	font-size: 15px;
@@ -131,11 +131,12 @@ input[type='submit'], input[type='button'] {
 .heading {
 	background-image: url(/pics/phone1.jpg);
 	background-size: 100%;
-	background-position-y: -200px;
-	width: 100%;
+	background-position-y: -240px;
+	width: 80%;
+	margin: auto;
 	height: 400px;
 	position: relative;
 	border-radius: 120px;
-	box-shadow: 0 -5px 0 #1b1b23;
+	box-shadow: 0 -8px 0 #1b1b23;
 }
 
